@@ -5,3 +5,26 @@ body{
 a{
     color: rgb(215, 21, 189);
 }
+
+.scream{
+    color: #e84646;
+}
+
+img{
+    width: 100%;
+   
+}
+
+.wrapper{
+    max-width: 920px;
+    margin: 0 auto;
+}
+
+.textBigGreen{
+    text-transform: uppercase;
+    color: green;
+}
+
+p{
+    text-align: right;
+}
